@@ -43,3 +43,5 @@ Auto-generated service credentials
 
 API key:
 kNl1yqnXk4MCi42bojSJBxjhSc4Yx2QqvoXQdVr52i_V
+
+git remote set-url origin https://github.com/darwinuzcategui/desafio01_alestra.git
